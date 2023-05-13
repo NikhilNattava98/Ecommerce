@@ -1,5 +1,6 @@
 import sqlite3
 import tkinter as tk
+import mysql.connector
 from tkinter import messagebox
 
 

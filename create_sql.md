@@ -3,7 +3,7 @@ CREATE TABLE customers (
     customer_id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL,
     email TEXT UNIQUE NOT NULL,
-    address TEXT NOT NULL
+    address TEXT NOT NULL 
 );
 
 -- Create a table for orders

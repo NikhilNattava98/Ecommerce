@@ -9,7 +9,6 @@ DELETE FROM customers WHERE customer_id=1;
 SELECT * FROM customers;
 
 
-
 CRUD on Oder_details Table:
 
 INSERT INTO order_details (order_id, product_id, quantity, price) VALUES (10, 101, 5, 600);

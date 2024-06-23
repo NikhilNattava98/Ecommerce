@@ -5,7 +5,7 @@ import mysql.connector
 
 # mydbect to the Mysql database
 
-# Create the main window
+# Create the main window 
 root = tk.Tk()
 root.title('CRUD Operations - Order Details')
 

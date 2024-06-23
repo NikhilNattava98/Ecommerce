@@ -12,7 +12,7 @@ This model has 4 tables listed below:
 
 
 customer_id INTEGER PRIMARY KEY,
-
+ 
 name TEXT NOT NULL,
 
 email TEXT UNIQUE NOT NULL,

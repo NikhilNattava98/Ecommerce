@@ -5,7 +5,7 @@ import mysql.connector
 
 # Create the main window
 root = tk.Tk()
-root.title('CRUD Operations - Products')
+root.title('CRUD Operations - Products') 
 
 # Define the function to add a new order detail
 def add_product_detail():

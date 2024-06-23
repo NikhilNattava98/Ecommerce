@@ -5,7 +5,7 @@ from tkinter import messagebox
 # mydbect to the Mysql database
 
         
-
+ 
 # Create the main window
 root = tk.Tk()
 root.title('CRUD Operations')

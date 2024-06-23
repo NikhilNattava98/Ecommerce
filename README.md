@@ -14,10 +14,6 @@ https://github.com/NikhilNattava98/Ecommerce.git
 * GITHUB ID: NikhilNattava98
 * WSUID: Z226y685
 
-### 2.) Rupesh Kanagala
-* GITHUB ID: rupeshkangala
-* WSUID: G977s653
-
 ## YoutubeLink:
 https://youtu.be/i31ye0bC_5Q
 

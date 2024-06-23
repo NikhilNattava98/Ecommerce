@@ -5,7 +5,7 @@ CREATE TABLE customers (
     email TEXT UNIQUE NOT NULL,
     address TEXT NOT NULL 
 );
-
+ 
 -- Create a table for orders
 CREATE TABLE orders (
     order_id INTEGER PRIMARY KEY AUTOINCREMENT,

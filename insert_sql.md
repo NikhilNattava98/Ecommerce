@@ -5,7 +5,7 @@ INSERT INTO customers (name, email, address) VALUES
 ('Alice Lee', 'alicelee@gmail.com', '234 Maple Rd'),
 ('Sam Wilson', 'samwilson@gmail.com', '567 Pine St');
 
--- Insert 5 rows into the orders table
+-- Insert 5 rows into the orders table 
 INSERT INTO orders (order_date, customer_id) VALUES
 ('2023-04-24', 1),
 ('2023-04-24', 2),

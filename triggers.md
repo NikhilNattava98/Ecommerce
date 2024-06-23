@@ -5,7 +5,7 @@ BEGIN
     DELETE FROM orders WHERE customer_id = OLD.customer_id;
 END;
 
-
+ 
 CREATE TRIGGER delete_order_details_trigger
 BEFORE DELETE ON orders
 FOR EACH ROW

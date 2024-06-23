@@ -11,7 +11,7 @@ INSERT INTO orders (order_date, customer_id) VALUES
 ('2023-04-24', 2),
 ('2023-04-25', 3),
 ('2023-04-25', 4),
-('2023-04-25', 5);
+('2023-04-25', 5); 
 
 INSERT INTO order_details (order_id, product_id, quantity, price) VALUES
 (1, 1, 2, 19.99),
